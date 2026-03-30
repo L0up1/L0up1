@@ -34,7 +34,7 @@ Sou Thiago José Riguett da Silva, natural do Rio de Janeiro. Tenho ensino médi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-img 
+<img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
